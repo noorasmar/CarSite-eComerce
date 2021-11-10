@@ -1,4 +1,4 @@
-# CarSite-E-comerce
+# CarSite-eComerce
 
 First of all, I apologize for not posting the project files because this is a site belonging to one of my clients and I cannot publish the files of his own project.
 
